@@ -63,7 +63,7 @@ params:
         - name: orcid
           url: https://orcid.org/0009-0006-1768-5511
         - name: GitHub
-          url: https://github.com/AryanAhadinia
+          url: https://github.com/feiyuxiaothu
         - name: telegram
           url: https://t.me/AryanAhadinia
         - name: linkedin
