@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Matrix Factorization on Feiyu Shaw</title>
+    <link>http://localhost:1313/tags/matrix-factorization/</link>
+    <description>Recent content in Matrix Factorization on Feiyu Shaw</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 18 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/matrix-factorization/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Joint Inference of Diffusion and Structure in Partially Observed Social Networks Using Coupled Matrix Factorization</title>
+      <link>http://localhost:1313/DiffStru/</link>
+      <pubDate>Tue, 18 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/DiffStru/</guid>
+      <description>Access to complete data in large-scale networks is often infeasible. Therefore, the problem of missing data is a crucial and unavoidable issue in the analysis and modeling of real-world social networks. However, most of the research on different aspects of social networks does not consider this limitation. One effective way to solve this problem is to recover the missing data as a pre-processing step. In this paper, a model is learned from partially observed data to infer unobserved diffusion and structure networks. To jointly discover omitted diffusion activities and hidden network structures, we develop a probabilistic generative model called “DiffStru.” The interrelations among links of nodes and cascade processes are utilized in the proposed method via learning coupled with low-dimensional latent factors. Besides inferring unseen data, latent factors such as community detection may also aid in network classification problems. We tested different missing data scenarios on simulated independent cascades over LFR networks and real datasets, including Twitter and Memetracker. Experiments on these synthetic and real-world datasets show that the proposed method successfully detects invisible social behaviors, predicts links, and identifies latent features.</description>
+    </item>
+    
+  </channel>
+</rss>

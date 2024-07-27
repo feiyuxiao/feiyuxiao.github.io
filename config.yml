@@ -1,0 +1,92 @@
+baseURL: "https://feiyuxiao.github.io/"
+title: Feiyu Shaw
+paginate: 20
+theme: PaperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+
+taxonomies:
+    tag: tags
+
+menu:
+    main:
+        - name: Mini CV
+          url: /mini_cv/
+          weight: 1
+        - name: Publications
+          url: /publications/
+          weight: 2
+
+params:
+    description: "I used to be an undergraduate student at Computer Engineering Department, Sharif University of Technology. I'm highly interested in graphs and networks. I've worked on a few papers with an explicit focus on social networks, however, my interest is not limited to social networks and I'm going to work on the other type of networks in future."
+    author: Feiyu Shaw
+    DateFormat: "January 2006"
+    defaultTheme: light
+    hideFooter: true
+    disableThemeToggle: true
+    ShowShareButtons: false
+    ShowReadingTime: false
+    disableSpecial1stPost: true
+    disableAnchoredHeadings: true
+    ShowPostNavLinks: false
+    ShowBreadCrumbs: false
+    ShowCodeCopyButtons: true
+    ShowRssButtonInSectionTermList: false
+    ShowToc: false
+    disableScrollToTop: true
+    TocOpen: true
+    ShowWordCount: false
+    UseHugoToc: true
+    comments: false
+    math: true
+    profileMode:
+          enabled: true
+          title: Feiyu Shaw
+          subtitle: "I used to be an undergraduate student at Computer Engineering Department, Sharif University of Technology. I'm highly interested in graphs and networks. I've worked on a few papers with an explicit focus on social networks, however, my interest is not limited to social networks and I'm going to work on the other type of networks in future."
+          imageUrl: "/profile.png"
+          imageWidth: 160
+          imageHeight: 160
+          imageTitle: Feiyu Shaw
+          buttons:
+            - name: Mini CV
+              url: /mini_cv/
+            - name: Publications
+              url: /publications/
+    socialIcons:
+        - name: Email
+          url: mailto:aryan.ahadinia@sharif.edu
+        - name: Location
+          url: /location/
+        - name: Google Scholar
+          url: https://scholar.google.com/citations?user=C5-a0JIAAAAJ&hl=en
+        - name: orcid
+          url: https://orcid.org/0009-0006-1768-5511
+        - name: GitHub
+          url: https://github.com/AryanAhadinia
+        - name: telegram
+          url: https://t.me/AryanAhadinia
+        - name: linkedin
+          url: https://www.linkedin.com/in/ahadinia/
+    assets:
+        disableHLJS: true
+        disableScrollBarStyle: true
+    cover:
+        hiddenInList: false
+        hiddenInSingle: false
+    label:
+      text: "Feiyu Shaw"
+      icon: /favicon.ico
+      iconHeight: 18
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+    highlight:
+        guessSyntax: true
+        style: autumn 
+    tableOfContents:
+        endLevel: 2
+        ordered: false
+        startLevel: 2
