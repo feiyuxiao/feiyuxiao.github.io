@@ -1,5 +1,5 @@
-baseURL: "https://feiyuxiao.github.io/"
-title: Feiyu Shaw
+baseURL: "https://feiyuxiao.github.io/" 
+title: Rosa van den Ende 
 paginate: 20
 theme: PaperMod
 
@@ -11,19 +11,26 @@ taxonomies:
 
 menu:
     main:
-        - name: Mini CV
-          url: /mini_cv/
-          weight: 1
         - name: Publications
-          url: /publications/
+          url: papers/
+          weight: 1
+        - name: Talks
+          url: talks/
           weight: 2
+        - name: Resume
+          url: cv_rosa.pdf
+          weight: 3 
+        # - name: Photography
+        #   url: https://pmichaillat.substack.com
+        #   weight: 4
 
 params:
-    description: "I used to be an undergraduate student at Computer Engineering Department, Sharif University of Technology. I'm highly interested in graphs and networks. I've worked on a few papers with an explicit focus on social networks, however, my interest is not limited to social networks and I'm going to work on the other type of networks in future."
-    author: Feiyu Shaw
+    description: "I am a PhD Candidate in Mathematical and Environmental Economics."
+    author: Name
+    # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
-    hideFooter: true
+    hideFooter: false
     disableThemeToggle: true
     ShowShareButtons: false
     ShowReadingTime: false
@@ -42,41 +49,58 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Feiyu Shaw
-          subtitle: "I used to be an undergraduate student at Computer Engineering Department, Sharif University of Technology. I'm highly interested in graphs and networks. I've worked on a few papers with an explicit focus on social networks, however, my interest is not limited to social networks and I'm going to work on the other type of networks in future."
-          imageUrl: "/profile.png"
+          title: Rosa van den Ende
+          subtitle: "I am a PhD candidate in Mathematical and Environmental Economics at the Centre d'Économie de la Sorbonne (CES), Université Paris I Panthéon-Sorbonne and the Institute of Mathematical Economics, Universität Bielefeld, 
+          under the supervision of Agnieszka Rusinowska and Manuel Förster. I apply game theory and network theory to construct models that can shape effective climate policy. 
+          I am mostly interested in environmental allocation questions and in how to capture the concept of distributive climate justice in mathematics."
+          imageUrl: "profile.png"
           imageWidth: 160
           imageHeight: 160
-          imageTitle: Feiyu Shaw
+          imageTitle: Rosa van den Ende
           buttons:
-            - name: Mini CV
-              url: /mini_cv/
             - name: Publications
-              url: /publications/
+              url: papers/
+            # - name: Courses
+            #   url: courses/
+            # - name: Data
+            #   url: data/
+           # - name: Newsletter
+           #   url: https://pmichaillat.substack.com
+            # - name: Tags
+            #   url: tags/
+            - name: Talks
+              url: talks/
+            - name: Resume
+              url: cv_rosa.pdf
+            #- name: Archive
+            #  url: archive/
     socialIcons:
+        # - name: CV
+        #   url: cv_rosa.pdf
         - name: Email
-          url: mailto:aryan.ahadinia@sharif.edu
+          url: mailto:rosa.van-den-ende@univ-paris1.fr
         - name: Location
-          url: /location/
+          url: location/
+    
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=C5-a0JIAAAAJ&hl=en
-        - name: orcid
-          url: https://orcid.org/0009-0006-1768-5511
-        - name: GitHub
-          url: https://github.com/feiyuxiaothu
-        - name: telegram
-          url: https://t.me/AryanAhadinia
-        - name: linkedin
-          url: https://www.linkedin.com/in/ahadinia/
+          url: https://scholar.google.com/citations?user=jwrYE5sAAAAJ&hl=fr
+        - name: LinkedIn
+          url: https://linkedin.com/in/rosavandenende
+        # - name: GitHub
+        #   url: https://github.com/pmichaillat
+        - name: ORCID
+          url: https://orcid.org/0000-0002-9417-1075
+      
+
     assets:
         disableHLJS: true
         disableScrollBarStyle: true
     cover:
         hiddenInList: false
-        hiddenInSingle: false
+        hiddenInSingle: true
     label:
-      text: "Feiyu Shaw"
-      icon: /favicon.ico
+      text: "Rosa van den Ende"
+      icon: favicon.ico
       iconHeight: 18
 
 markup:

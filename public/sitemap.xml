@@ -2,65 +2,83 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://feiyuxiao.github.io/DANI/</loc>
-    <lastmod>2023-09-18T00:00:00+00:00</lastmod>
+    <loc>https://rosavandenende.github.io/data/</loc>
+    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://feiyuxiao.github.io/tags/diffusion-information/</loc>
-    <lastmod>2023-09-18T00:00:00+00:00</lastmod>
+    <loc>https://rosavandenende.github.io/data/data1/</loc>
+    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://feiyuxiao.github.io/</loc>
-    <lastmod>2023-09-18T00:00:00+00:00</lastmod>
+    <loc>https://rosavandenende.github.io/tags/keyword-10/</loc>
+    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://feiyuxiao.github.io/tags/network-inference/</loc>
-    <lastmod>2023-09-18T00:00:00+00:00</lastmod>
+    <loc>https://rosavandenende.github.io/tags/keyword-5/</loc>
+    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://feiyuxiao.github.io/tags/network-science/</loc>
-    <lastmod>2023-09-18T00:00:00+00:00</lastmod>
+    <loc>https://rosavandenende.github.io/tags/keyword-6/</loc>
+    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://feiyuxiao.github.io/publications/</loc>
-    <lastmod>2023-09-18T00:00:00+00:00</lastmod>
+    <loc>https://rosavandenende.github.io/tags/keyword-7/</loc>
+    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://feiyuxiao.github.io/tags/social-networks/</loc>
-    <lastmod>2023-09-18T00:00:00+00:00</lastmod>
+    <loc>https://rosavandenende.github.io/</loc>
+    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://feiyuxiao.github.io/tags/</loc>
-    <lastmod>2023-09-18T00:00:00+00:00</lastmod>
+    <loc>https://rosavandenende.github.io/tags/</loc>
+    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://feiyuxiao.github.io/tags/topological-structure/</loc>
-    <lastmod>2023-09-18T00:00:00+00:00</lastmod>
+    <loc>https://rosavandenende.github.io/courses/course1/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://feiyuxiao.github.io/tags/bayesian-computation/</loc>
-    <lastmod>2023-07-18T00:00:00+00:00</lastmod>
+    <loc>https://rosavandenende.github.io/courses/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://feiyuxiao.github.io/tags/cascade-completion/</loc>
-    <lastmod>2023-07-18T00:00:00+00:00</lastmod>
+    <loc>https://rosavandenende.github.io/tags/keyword-1/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://feiyuxiao.github.io/tags/coupled-matrix-factorization/</loc>
-    <lastmod>2023-07-18T00:00:00+00:00</lastmod>
+    <loc>https://rosavandenende.github.io/tags/keyword-2/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://feiyuxiao.github.io/tags/information-diffusion/</loc>
-    <lastmod>2023-07-18T00:00:00+00:00</lastmod>
+    <loc>https://rosavandenende.github.io/tags/keyword-3/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://feiyuxiao.github.io/DiffStru/</loc>
-    <lastmod>2023-07-18T00:00:00+00:00</lastmod>
+    <loc>https://rosavandenende.github.io/courses/course2/</loc>
+    <lastmod>2021-06-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://feiyuxiao.github.io/tags/link-prediction/</loc>
-    <lastmod>2023-07-18T00:00:00+00:00</lastmod>
+    <loc>https://rosavandenende.github.io/tags/keyword-4/</loc>
+    <lastmod>2021-06-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://feiyuxiao.github.io/tags/matrix-factorization/</loc>
-    <lastmod>2023-07-18T00:00:00+00:00</lastmod>
+    <loc>https://rosavandenende.github.io/archive/</loc>
   </url><url>
-    <loc>https://feiyuxiao.github.io/tags/network-structure/</loc>
-    <lastmod>2023-07-18T00:00:00+00:00</lastmod>
+    <loc>https://rosavandenende.github.io/tags/bonacich-centrality/</loc>
   </url><url>
-    <loc>https://feiyuxiao.github.io/tags/partially-observed-data/</loc>
-    <lastmod>2023-07-18T00:00:00+00:00</lastmod>
+    <loc>https://rosavandenende.github.io/tags/directed-graphs/</loc>
   </url><url>
-    <loc>https://feiyuxiao.github.io/tags/social-network/</loc>
-    <lastmod>2023-07-18T00:00:00+00:00</lastmod>
+    <loc>https://rosavandenende.github.io/tags/emission-responsibility/</loc>
   </url><url>
-    <loc>https://feiyuxiao.github.io/location/</loc>
+    <loc>https://rosavandenende.github.io/location/</loc>
   </url><url>
-    <loc>https://feiyuxiao.github.io/mini_cv/</loc>
+    <loc>https://rosavandenende.github.io/tags/measurement-problem/</loc>
+  </url><url>
+    <loc>https://rosavandenende.github.io/papers/paper2/</loc>
+  </url><url>
+    <loc>https://rosavandenende.github.io/tags/networks-and-supply-chains/</loc>
+  </url><url>
+    <loc>https://rosavandenende.github.io/officehours/</loc>
+  </url><url>
+    <loc>https://rosavandenende.github.io/papers/</loc>
+  </url><url>
+    <loc>https://rosavandenende.github.io/tags/quantum-mechanics/</loc>
+  </url><url>
+    <loc>https://rosavandenende.github.io/papers/paper1/</loc>
+  </url><url>
+    <loc>https://rosavandenende.github.io/tags/shapley-value/</loc>
+  </url><url>
+    <loc>https://rosavandenende.github.io/tags/spontaneous-unitarity-violation/</loc>
+  </url><url>
+    <loc>https://rosavandenende.github.io/talks/</loc>
+  </url><url>
+    <loc>https://rosavandenende.github.io/papers/paper3/</loc>
+  </url><url>
+    <loc>https://rosavandenende.github.io/tags/upstream-responsibility-value/</loc>
   </url>
 </urlset>
