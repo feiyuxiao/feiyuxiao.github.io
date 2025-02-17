@@ -20,6 +20,12 @@ menu:
         - name: Resume
           url: cv_rosa.pdf
           weight: 3 
+        - name: News
+          url: news/
+          weight: 4
+        - name: Courses
+          url: courses/
+          weight: 5
         # - name: Photography
         #   url: https://pmichaillat.substack.com
         #   weight: 4
@@ -60,20 +66,22 @@ params:
           buttons:
             - name: Publications
               url: papers/
-            # - name: Courses
-            #   url: courses/
+            - name: Courses
+              url: courses/
             # - name: Data
             #   url: data/
            # - name: Newsletter
            #   url: https://pmichaillat.substack.com
-            # - name: Tags
-            #   url: tags/
+            - name: Tags
+              url: tags/
             - name: Talks
               url: talks/
+            - name: News
+              url: news/
             - name: Resume
               url: cv_rosa.pdf
-            #- name: Archive
-            #  url: archive/
+            - name: Archive
+              url: archive/
     socialIcons:
         # - name: CV
         #   url: cv_rosa.pdf
